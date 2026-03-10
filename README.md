@@ -41,7 +41,7 @@ Research project exploring spectral clustering techniques for image segmentation
 
 ## Skills
 
-**Programming:** Python, R  
+**Programming:** Python, R, SQL  
 **Geospatial:** FME, ArGIS   
 **Analytics:** Optimisation, Statistical modelling  
 **BI & Reporting:** Power BI, Excel  
