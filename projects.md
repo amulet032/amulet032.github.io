@@ -16,7 +16,7 @@ Data-driven analysis of how disruptions affect accessibility and traffic diversi
 - Produced decision-support visualisations  
 
 🔗 Repository  
-https://github.com/amulet032/Road-Network-Disruption-Analysis
+https://github.com/amulet032/State-Highway-Network-Disruption-Analysis
 
 ---
 
