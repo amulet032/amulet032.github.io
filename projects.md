@@ -9,8 +9,8 @@ Data-driven analysis of how disruptions affect accessibility and traffic diversi
 - Simulated disruption scenarios
 - Produced decision-support visualisations
 
-Repository:  
-https://github.com/amulet032/Road-Network-Disruption-Analysis
+Repository:
+[https://github.com/amulet032/Road-Network-Disruption-Analysis]
 
 ---
 
@@ -23,4 +23,4 @@ Research project exploring graph-based spectral clustering techniques for image 
 - Evaluated segmentation quality
 
 Repository:  
-https://github.com/amulet032/SpectralClustering
+[https://github.com/amulet032/SpectralClustering]
