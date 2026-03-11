@@ -18,5 +18,5 @@ I am a data science graduate from the University of Canterbury with interests in
 
 - Transport Network Disruption Analysis
 - Spectral Clustering for Image Segmentation
-- 
+- Urban Accessibility Analysis
 - 
